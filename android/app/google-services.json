@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822148995238",
+    "firebase_url": "https://imovalue-7bcd0.firebaseio.com",
+    "project_id": "imovalue-7bcd0",
+    "storage_bucket": "imovalue-7bcd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822148995238:android:b79d7c473151fbaf",
+        "android_client_info": {
+          "package_name": "com.example.imovaluer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822148995238-bpv51ea4rbka08243nr47p19i12pje0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZOfhBJZSQYhjkWZh8mJ65wjZ1c6rWXRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822148995238-bpv51ea4rbka08243nr47p19i12pje0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
